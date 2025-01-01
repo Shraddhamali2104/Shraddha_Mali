@@ -1,5 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Shraddha
 
+##  About Me
 🎓 **Student at VIIT College, Pune**  
 🌟 Pursuing a **Bachelor's in Information Technology** (3rd Year)  
 🤖 Enthusiastic about **Artificial Intelligence & Machine Learning**  
@@ -9,7 +10,7 @@
 ---
 
 ## 🚀 Skills and Interests
-- **Programming Languages**: Python, JavaScript, C++  
+- **Programming Languages**: Python, JavaScript, Java
 - **Technologies**: MERN Stack, AI/ML, Augmented Reality  
 - **Tools & Platforms**: Git, Streamlit, Unity Hub  
 
@@ -33,11 +34,11 @@
 ## 🌱 What I'm Learning
 - Deepening knowledge in **AI/ML**  
 - Building full-stack applications with **React** and **Node.js**  
-- Experimenting with **AR/VR technologies**  
+
 
 ---
 
 ## 📫 Let's Connect!
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Portfolio**: [Your Portfolio Link, if available]  
+- **Email**: shraddhamalipeth789@gmail.com  
+- **LinkedIn**: www.linkedin.com/in/shraddha-mali21
+ 
